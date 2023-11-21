@@ -4,8 +4,8 @@
 
 # main
 - completed folders
-  
-#master
+
+# master
 - Still practicing
   - HTML / CSS
   - Back-end Studying _ python DRF
