@@ -1,0 +1,29 @@
+Name: Kim Minju
+Age: 22
+Student_id: 20211020
+Location: Seoul, South Korea
+Phone: 010-1234-5678
+
+Name: Lee Jihyun
+Age: 20
+Student_id: 20222021
+Location: Busan, South Korea
+Phone: 010-9876-5432
+
+Name: Park Hyunwoo
+Age: 25
+Student_id: 20201022
+Location: Incheon, South Korea
+Phone: 010-5555-5555
+
+Name: Choi Soomin
+Age: 21
+Student_id: 20221023
+Location: Gwangju, South Korea
+Phone: 010-1111-2222
+
+Name: Kang Jaewon
+Age: 23
+Student_id: 20211024
+Location: Daegu, South Korea
+Phone: 010-9999-8888
