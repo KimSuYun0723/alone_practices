@@ -2,10 +2,10 @@
 - Any codes
 - Mostly for individual practicing
 
-# main
-- completed folders
+# Main
+- Completed folders
 
-# master
+# Master
 - Still practicing
   - HTML / CSS
   - Back-end Studying _ python DRF
