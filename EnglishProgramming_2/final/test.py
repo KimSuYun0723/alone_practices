@@ -1,0 +1,1 @@
+#"C://pythonpractice//EnglishProgramming_2//data//file_open.txt"
