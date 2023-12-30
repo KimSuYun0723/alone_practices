@@ -16,10 +16,23 @@
 - Including completed folders
 
 ----------------------------------------------
+https://mylko72.gitbooks.io/git/content/
 
-# Git branch delte
+# Branch Manage
+git branch #confirm registered branch
+git branch -v #to wathch detaily
+git branch --merged #merged branch list
+git branch --no-merged #not merged branch list
+
+# Create git branch
+git branch <branch name> #create
+git checkout <branch name> #move
+git checkout -b <branch name> #perform above 2 lines together
+git branch -m <branch name> <new branch name> #change branch name
+
+# Git branch delete
 git checkout <another branch>
 git branch -d <branch name>
 git branch -D <branch name> #forced
-- push 되지 않은 commit이 있는 경우
-- branch에 병합되지 않은 변경 사항이 있는 경우
+- in the cases of not pushed commit 
+- in the cases of changes not merged into branch
