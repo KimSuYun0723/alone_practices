@@ -1,6 +1,8 @@
 # alone_practice
 - Any codes
-- Mostly for individual python practicing
+- Mostly for individual practicing
+  - Python
+  - R
 
 # Main
 - Completed folders
