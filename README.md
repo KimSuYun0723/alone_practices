@@ -5,16 +5,6 @@
 # Main
 - Completed folders
 
-# Master
-- Still practicing
-  - HTML / CSS
-  - Back-end Studying _ python DRF
-  - Statistics _ python $ R
-  - Data Analysis _ python & R
-  - Crawling _ python
-  - ML _ python
-- Including completed folders
-
 ----------------------------------------------
 # Connecting local - repository
 - (approach into local directory)
