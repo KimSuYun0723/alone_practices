@@ -1,6 +1,6 @@
 # alone_practice
 - Any codes
-- Mostly for individual practicing
+- Mostly for individual & advanced practicing related to lectures in school
   - Python
   - R
 
