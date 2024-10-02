@@ -35,8 +35,8 @@ text1 = openfile('C:/_SY/alone_practice/lectures/AppliedLinguistic/sample_1.txt'
 cleaned_1 = preprocessing(text1)
 dic1 = count_dict(cleaned_1)
 
-for tup in dic1:
-    print(f"{tup[0]}: {tup[1]}")
+for tup_num in range(len(dic1)):
+    print(f"{tup_num+1}. {dic1[tup_num][0]}: {dic1[tup_num][1]}")
 
 
 print("=====================================")
@@ -45,5 +45,5 @@ text2 = openfile('C:/_SY/alone_practice/lectures/AppliedLinguistic/sample_2.txt'
 cleaned_2 = preprocessing(text2)
 dic2 = count_dict(cleaned_2)
 
-for tup in dic2:
-    print(f"{tup[0]}: {tup[1]}")
+for tup_num in range(len(dic2)):
+    print(f"{tup_num+1}. {dic2[tup_num][0]}: {dic2[tup_num][1]}")
